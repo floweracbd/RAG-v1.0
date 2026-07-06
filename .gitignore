@@ -1,0 +1,21 @@
+# Python environments and caches
+.venv/
+.venv311/
+__pycache__/
+*.py[cod]
+
+# Node / Next.js
+frontend/web/node_modules/
+frontend/web/.next/
+
+# Secrets and local settings
+.env
+.obsidian/
+
+# Runtime data / generated assets
+data_source/
+mineru_temp_result/
+
+# OS files
+.DS_Store
+Thumbs.db
